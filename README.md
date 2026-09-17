@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlanoIV
 
-# ALANOIV
 
 ### Backend developer · FiveM systems · UI integration
 
