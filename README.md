@@ -42,26 +42,26 @@ dev , workspace
 
 ```text
 server      events / callbacks / permissions / state
-gameplay    custom scripts for FiveM communities
+gameplay    custom scripts for FiveM Server
 data        MySQL / oxmysql / debugging / optimisation
 interface   Figma -> HTML / CSS / JavaScript -> in-game UI
-delivery    support / reports / coordination / ownership
+delivery    support / reports / coordination 
 ```
 
 ## `03 / ACCESS_LOG`
 
 ```text
 2567-2568   BACKEND DEVELOPER       PARADOX CITY
-2565-2566   DEVELOPER & SUPPORT     COMMON RP
-2565-2566   DEVELOPER               MIDNIGHT CLUB + MIDNIGHT ACADEMY
-2563-2565   HEAD DEVELOPER          SAVAGE BOXING
+2565-2566   BACKEND DEVELOPER       COMMON RP
+2565-2566   BACKEND DEVELOPER       MIDNIGHT CLUB | MIDNIGHT ACADEMY
+2563-2565   BACKEND DEVELOPER       SAVAGE BOXING
 ```
 
 ## `04 / CONNECT`
 
 ```text
-contact: tamagotpca@gmail.com
-portfolio: fivem-backend-portfolio.calm-crumb-0039.chatgpt.site
+contact: tamagotpc@gmail.com
+portfolio: [site](https://alano-205.pages.dev/)
 ```
 
 <sub>open to backend, gameplay, and UI integration work for FiveM communities</sub>
