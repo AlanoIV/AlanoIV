@@ -11,7 +11,7 @@
 
 `status: online` · `role: backend / gameplay / UI integration`
 
-[Portfolio](https://fivem-backend-portfolio.calm-crumb-0039.chatgpt.site/) · [Contact](mailto:tamagotpca@gmail.com)
+[Portfolio](https://alano-205.pages.dev/) · [Contact](mailto:tamagotpc@gmail.com)
 
 ## `01 / CURRENT_PROCESS`
 
@@ -53,7 +53,7 @@ delivery    support / reports / coordination
 ```text
 2567-2568   BACKEND DEVELOPER       PARADOX CITY
 2565-2566   BACKEND DEVELOPER       COMMON RP
-2565-2566   BACKEND DEVELOPER       MIDNIGHT CLUB | MIDNIGHT ACADEMY
+2565-2566   BACKEND DEVELOPER       MIDNIGHT CLUB · MIDNIGHT ACADEMY
 2563-2565   BACKEND DEVELOPER       SAVAGE BOXING
 ```
 
@@ -61,7 +61,6 @@ delivery    support / reports / coordination
 
 ```text
 contact: tamagotpc@gmail.com
-portfolio: [site](https://alano-205.pages.dev/)
 ```
 
-<sub>open to backend, gameplay, and UI integration work for FiveM communities</sub>
+<sub>open to backend, gameplay, and UI integration work for FiveM Server</sub>
