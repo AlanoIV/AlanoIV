@@ -20,7 +20,7 @@
 ```text
 [ACTIVE PROJECT]
 
-admin workspace for uploading and managing portfolio work
+dev , workspace
 
 > focus      clean workflows, dependable data, explicit state
 > runtime    web admin interface
